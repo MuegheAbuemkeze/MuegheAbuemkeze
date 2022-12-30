@@ -7,7 +7,6 @@
 
 -   📫 How to reach me **abuemkezemueghe@gmail.com**
 
--   ⚡ Fun fact **I'm a little weirdo 🤣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,3 +25,23 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
+
+## Github Stats
+
+<div align="center" width="280px">
+
+![MuegheAbuemkeze's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuegheAbuemkeze&show_icons=true )
+
+</div>
+
+<div align="center" width="380px" >
+    
+![amazingfarooq's GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=MuegheAbuemkeze&count_private=true&show_icons=true)
+    
+</div> 
+
+<br/>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=MuegheAbuemkeze&label=Profile Views  &color=red&style=flat" height="24px"/>
+</div> 
