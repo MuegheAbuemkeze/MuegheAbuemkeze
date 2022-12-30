@@ -1,7 +1,7 @@
 ### Hi there I'm Abuemkeze aka MUGi 👋
 
 -   🏫 I'm a Student currently at (<https://ictuniversity.org/>) pursuing Bachelors in Computer Science & Engineering
--   🌱 I’m currently learning **Relational Databases and Web Integration**
+-   🌱 I’m currently learning **MERN FULL STACK DEVELOPMENT**
 
 -   💬 Ask me about **Resources for learning Web Development , Roadmap**
 
