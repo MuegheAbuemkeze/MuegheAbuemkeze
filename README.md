@@ -1,12 +1,15 @@
-### Hi there I'm Abuemkeze aka MUGi 👋
+### Hi, I'm Abuemkeze aka MUGi 👋
 
--   🏫 I'm a Student currently at (<https://ictuniversity.org/>) pursuing Bachelors in Computer Science & Engineering
+-   🏫 I'm a Student currently pursuing Bachelors in Computer Science & Engineering
+
 -   🌱 I’m currently learning **MERN FULL STACK DEVELOPMENT**
 
 -   💬 Ask me about **Resources for learning Web Development , Roadmap**
 
--   📫 How to reach me **abuemkezemueghe@gmail.com**
+-   💯 Dedicated to becoming an excellent fullstack developer
 
+
+## 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,27 +19,24 @@
 <a href="https://www.facebook.com/mueghe.abuemkezechu" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/facebook.svg" alt="MUGi" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools</h3>
-<p align="left">
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-</p>
+## 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MuegheAbuemkeze&row=1&theme=darkhub&margin-w=15&no-bg=true" alt="MuegheAbuemkeze" /></a> </p>
+
 
 ## Github Stats
 
-<div align="center" width="280px">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuegheAbuemkeze&langs_count=20&layout=compact&theme=cobalt&align=right&width=100%&hide_border=true)](https://github.com/MuegheAbuemkeze/github-readme-stats)
 
-![MuegheAbuemkeze's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuegheAbuemkeze&show_icons=true )
+<div align="left" width="280px">
+
+![MuegheAbuemkeze's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuegheAbuemkeze&show_icons=true&locale=en&layout=compact&theme=cobalt )
 
 </div>
 
-<div align="center" width="380px" >
+<div align="left" width="380px" >
     
-![amazingfarooq's GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=MuegheAbuemkeze&count_private=true&show_icons=true)
+![MuegheAbuemkeze's GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=MuegheAbuemkeze&count_private=true&show_icons=true&locale=en&layout=compact&theme=cobalt)
     
 </div> 
 
