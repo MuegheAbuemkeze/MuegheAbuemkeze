@@ -30,7 +30,7 @@
 
 <div align="left" width="280px">
 
-![abuemkeze's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuegheAbuemkeze&show_icons=true&locale=en&layout=compact&theme=cobalt )
+![abuemkeze's GitHub stats](https://github-readme-stats.vercel.app/api?username=abuemkeze&show_icons=true&locale=en&layout=compact&theme=cobalt )
 
 </div>
 
