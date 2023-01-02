@@ -26,7 +26,7 @@
 
 ## Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abuemkeze&langs_count=20&layout=compact&theme=cobalt&align=right&width=100%&hide_border=true)](https://github.com/MuegheAbuemkeze/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abuemkeze&langs_count=20&layout=compact&theme=cobalt&align=right&width=100%&hide_border=true)](https://github.com/abuemkeze/github-readme-stats)
 
 <div align="left" width="280px">
 
