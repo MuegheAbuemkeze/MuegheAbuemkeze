@@ -21,22 +21,22 @@
 
 ## 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MuegheAbuemkeze&row=1&theme=darkhub&margin-w=15&no-bg=true" alt="MuegheAbuemkeze" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abuemkeze&row=1&theme=darkhub&margin-w=15&no-bg=true" alt="abuemkeze" /></a> </p>
 
 
 ## Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuegheAbuemkeze&langs_count=20&layout=compact&theme=cobalt&align=right&width=100%&hide_border=true)](https://github.com/MuegheAbuemkeze/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abuemkeze&langs_count=20&layout=compact&theme=cobalt&align=right&width=100%&hide_border=true)](https://github.com/MuegheAbuemkeze/github-readme-stats)
 
 <div align="left" width="280px">
 
-![MuegheAbuemkeze's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuegheAbuemkeze&show_icons=true&locale=en&layout=compact&theme=cobalt )
+![abuemkeze's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuegheAbuemkeze&show_icons=true&locale=en&layout=compact&theme=cobalt )
 
 </div>
 
 <div align="left" width="380px" >
     
-![MuegheAbuemkeze's GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=MuegheAbuemkeze&count_private=true&show_icons=true&locale=en&layout=compact&theme=cobalt)
+![abuemkeze's GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=abuemkeze&count_private=true&show_icons=true&locale=en&layout=compact&theme=cobalt)
     
 </div> 
 
